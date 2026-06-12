@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building AI-powered solutions in Computer Vision, Data Analytics, Machine Learning, and Full-Stack Web Development, including real-time analytics dashboards, player re-identification systems, and intelligent automation platforms.<br><br>👯 I’m looking to collaborate on<br>Open-source AI/ML projects, Computer Vision applications, Data Science research, MLOps workflows, and innovative Web Development solutions using React, FastAPI, and Firebase.<br><br>🤝 I’m looking for help with<br>Advanced MLOps, LLM fine-tuning (LoRA/QLoRA), scalable AI deployment, cloud infrastructure, and production-grade machine learning systems.<br><br>🌱 I’m currently learning<br>Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), MLOps, advanced Deep Learning architectures, and scalable data engineering.<br><br>💬 Ask me about<br>Python, Machine Learning, Deep Learning, Computer Vision, Data Analytics, Power BI, SQL, React.js, FastAPI, Firebase, and AI project development.<br><br>⚡ Fun fact<br>I enjoy turning real-world problems into intelligent AI solutions and have built systems used by 1,000+ employees while also winning hackathons and developing projects across AI, Data Science, and Web Development.
+
+🔭 Working on AI/ML, Data Science & Web Development.
+
+👯 Open to collaborating on AI, Computer Vision & Open-Source projects.
+
+🌱 Learning Generative AI, LLMs, RAG & MLOps.
+
+💬 Ask me about Python, Machine Learning, Data Analytics & React.
+
+⚡ Built AI solutions used by 1,000+ users.
 
 
 ## 🌐 Socials:
